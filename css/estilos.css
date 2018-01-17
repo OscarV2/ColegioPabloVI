@@ -46,9 +46,20 @@ footer .footer-below {
 .matriculas-box{
     padding: 50px;
 }
+/*
+@font-face{
+font-family: BlackChancery;
+    src: url("../fonts/BLKCHCRY.TTF");
+}
+*/
 
-h1, h2, h3, h4{
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+#main-editorial h3{
+    margin-top: 10px;
+}
+h1, h2, h3, h4, h5, h6{
+/*
+    font-family: BlackChancery;
+*/
 }
 
 
